@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wofull lamentation of Edward Smith, a poore penitent prisoner in the iayle of Bedford, which he wrote a short time before his death. To the tune of, Daintie come thou to me.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00705</idno>
+            <idno type="STC">STC 22655</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[367]</idno>
+            <idno type="EEBO-CITATION">99891527</idno>
+            <idno type="PROQUEST">ocm99891527</idno>
+            <idno type="VID">183110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183110)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[194])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wofull lamentation of Edward Smith, a poore penitent prisoner in the iayle of Bedford, which he wrote a short time before his death. To the tune of, Daintie come thou to me.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcock.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I am a prisoner poore ..."</note>
+                  <note>Place and date of publication suggested by STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, Edward, --  prisoner --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183110:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>The wofull lamentation of <hi>Edward Smith,</hi> a poore penitent priſoner in the Iayle of Bedford, which he wrote a ſhort time before his death.</head>
+            <opener>To the tune of, <hi>Daintie come thou to me.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <hi>I</hi> Am a Priſoner poore</l>
+               <l>Oppreſt with miſerie:</l>
+               <l>O Lord do thou reſtore,</l>
+               <l>that faith which wants in me.</l>
+            </lg>
+            <lg>
+               <l>In woe I waile and weep,</l>
+               <l>In griping grief I cry,</l>
+               <l>In dungeon darke and deep,</l>
+               <l>In fetters faſt I lie</l>
+            </lg>
+            <lg>
+               <l>Sighing I ſit and moane</l>
+               <l>My foule offences all,</l>
+               <l>My loathſome life is knowne,</l>
+               <l>which makes me liue in thrall</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ned <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mith</hi> I am, the wight</l>
+               <l>In priſon that remaines,</l>
+               <l>Tormented day and night,</l>
+               <l>with bands and iron chaines.</l>
+            </lg>
+            <lg>
+               <l>My ioyes are turnd to nought,</l>
+               <l>My hopes are worne away,</l>
+               <l>My wickedneſſe hath wrought</l>
+               <l>my downe-fall and decay.</l>
+            </lg>
+            <lg>
+               <l>Thoſe gifts that God gaue me,</l>
+               <l>My wants for to ſupply,</l>
+               <l>Abuſed much I haue.</l>
+               <l>to pleaſe my fantaſie.</l>
+            </lg>
+            <lg>
+               <l>My name I did deny,</l>
+               <l>In Baptiſme giuen me,</l>
+               <l>That Sacrament whereby</l>
+               <l>regenerate I ſhould be.</l>
+            </lg>
+            <lg>
+               <l>No wit nor ſtrength may ſerue</l>
+               <l>The Law to ſatisfie:</l>
+               <l>For death I do deſerue,</l>
+               <l>in right and equity.</l>
+            </lg>
+            <lg>
+               <l>For I offended haue</l>
+               <l>Nobles of hie degree,</l>
+               <l>What fauour can I craue</l>
+               <l>for life or liberty.</l>
+            </lg>
+            <lg>
+               <l>But hope of life is paſt,</l>
+               <l>My acts ſo hainous be.</l>
+               <l>And liberty is loſt,</l>
+               <l>till death doe ſet me free.</l>
+            </lg>
+            <lg>
+               <l>All men both old and young</l>
+               <l>Which are at liberty,</l>
+               <l>And heare my dolefull ſong.</l>
+               <l>example take by me.</l>
+            </lg>
+            <lg>
+               <l>Be true and truſt in God,</l>
+               <l>Fly theft and vice eſchew,</l>
+               <l>Leſt Gods moſt heauie rod,</l>
+               <l>correct your deeds untrue.</l>
+            </lg>
+            <lg>
+               <l>Would I had nere bin borne</l>
+               <l>To do ſuch wicked déeds,</l>
+               <l>Which makes me liue in ſcorne</l>
+               <l>and ſhame that ſore excéeds.</l>
+            </lg>
+            <lg>
+               <l>But that which paſſed is,</l>
+               <l>I cannot now recall:</l>
+               <l>My ſinnes and my amiſſe,</l>
+               <l>O Lord forgiue them all.</l>
+            </lg>
+            <lg>
+               <l>Woe worth ill company,</l>
+               <l>Fie on that filthy crue:</l>
+               <l>Accurſt the day may be</l>
+               <l>that euer I them knew.</l>
+            </lg>
+            <lg>
+               <l>If life and death were ſet</l>
+               <l>Before me for to choſe,</l>
+               <l>Though I might pardon get,</l>
+               <l>my life firſt would I loſe,</l>
+            </lg>
+            <lg>
+               <l>Then runne that wicked race,</l>
+               <l>And doe as I haue done,</l>
+               <l>Sweet Ieſus giue me grace,</l>
+               <l>that life ſo lewd to ſhun.</l>
+            </lg>
+            <lg>
+               <l>Farewell my louing wife</l>
+               <l>Who ſought to turn my minde,</l>
+               <l>And make me mend my life,</l>
+               <l>thy words full true I finde.</l>
+            </lg>
+            <lg>
+               <l>Farewell my children all,</l>
+               <l>My tender Babes adue:</l>
+               <l>Let this your Fathers fall,</l>
+               <l>be warning good for you.</l>
+            </lg>
+            <lg>
+               <l>Deare wife and infants three,</l>
+               <l>Serue God remember this,</l>
+               <l>That you true ſubiects be,</l>
+               <l>though I haue done amiſſe.</l>
+            </lg>
+            <lg>
+               <l>Farewell my muſick ſwéet,</l>
+               <l>And Cittorn ſiluer ſound,</l>
+               <l>Mourning for me is méet</l>
+               <l>my ſinnes do ſo abound.</l>
+            </lg>
+            <lg>
+               <l>O Lord on bended knees</l>
+               <l>And hands lift vp on hie,</l>
+               <l>Caſt on me gracious eies</l>
+               <l>with grace my wants ſupply</l>
+            </lg>
+            <lg>
+               <l>Lay not unto my charge,</l>
+               <l>The thinges that I haue done,</l>
+               <l>Though I haue runne at large,</l>
+               <l>and plaid the vnthrift ſonne.</l>
+            </lg>
+            <lg>
+               <l>Yet now I do repent,</l>
+               <l>And humbly come to thee</l>
+               <l>My ſinnes I do lament,</l>
+               <l>ſwéet Ieſus comfort me.</l>
+            </lg>
+            <lg>
+               <l>O Lord I do Lament,</l>
+               <l>And onely ioy in thee,</l>
+               <l>To praiſe thée day and night,</l>
+               <l>for thou redeemedſt me.</l>
+            </lg>
+            <lg>
+               <l>Lord ſaue our royall King</l>
+               <l>Whoſe priſoner poore am I,</l>
+               <l>Prolong his daies on earth,</l>
+               <l>with fame and victory.</l>
+            </lg>
+            <lg>
+               <l>Againſt his Maieſtie,</l>
+               <l>I haue offended ſore,</l>
+               <l>Committing Felony,</l>
+               <l>and now I die therefore.</l>
+            </lg>
+            <lg>
+               <l>A dolefull death God knowes,</l>
+               <l>Which once I did defie:</l>
+               <l>Thus muſt I end my woes</l>
+               <l>which I take patiently,</l>
+            </lg>
+            <lg>
+               <l>By thee O Sauiour ſwéet,</l>
+               <l>In heauen I hope to reſt,</l>
+               <l>In ioy where I ſhal méet,</l>
+               <l>thoſe foules whom thou haſt bleſt</l>
+            </lg>
+            <lg>
+               <l>Where we ſhall ſing thy praiſe,</l>
+               <l>O God, with voyce high,</l>
+               <l>When I ſhall end my dayes,</l>
+               <l>and liue eternally.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcock.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
